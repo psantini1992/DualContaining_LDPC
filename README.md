@@ -1,6 +1,7 @@
 ### Dependencies 
 
 Sagemath (any sufficiently recent version should be fine)
+Jupyter Notebook
 
 ### Description of files:
 
